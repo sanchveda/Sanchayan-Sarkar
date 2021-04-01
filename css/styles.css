@@ -609,6 +609,15 @@ min-height:200px;
 	text-align: center;
 	font-size: 18px;
 }
+
+#education {
+	background: #333;
+}
+.container2 {
+	color: #fff;
+	margin-left: 220px;
+}
+
 /* ------- */
 .parlex-back h2{font-size:32px !important;}
 .isotopeWrapper article {
